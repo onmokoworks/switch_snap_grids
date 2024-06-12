@@ -1,0 +1,2 @@
+AfterEffectsでsnap to gridsのオンオフを切り替えるスクリプト
+Kbar用を想定
